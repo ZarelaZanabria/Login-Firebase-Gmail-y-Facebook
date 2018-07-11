@@ -56,11 +56,7 @@ gmail.addEventListener('click', event => {
 
 });
 
-btnSignUp.addEventListener('click', e => {
-	document.getElementById('section-register-user').style.display = 'block';
-	document.getElementById('section-login').style.display = 'none';
 
-});
 
 
 
